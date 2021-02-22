@@ -5,5 +5,7 @@ This analysis was to help Hackathon to use clean dataset by using raw data from 
 Jupyter notebook in Python is used to EXTRACT the Wikipedia and Kaggle data from their files, TRANSFORM the dataset by cleaning them and merging the data together. Later LOAD the clean dataset into SQL database (PostgresSQL). 
 
 There were total of 6052 movies are imported into the SQLdatabase(“movie_data”) and 26,024,289 ratings across all the movies. Queries shows the result of import of database: 
-![Movies-ETL]( https://github.com/Zainak94/Movies-ETL/Resources movies_query.png/)
-![Movies-ETL]( https://github.com/Zainak94/Movies-ETL/Resources/ratings_query.png)
+
+![Movies-ETL](https://github.com/Zainak94/Movies-ETL/blob/main/Resources/movies_query.PNG)
+
+![Movies-ETL](https://github.com/Zainak94/Movies-ETL/blob/main/Resources/ratings_query.png)
